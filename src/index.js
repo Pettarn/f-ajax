@@ -36,3 +36,5 @@ function FAjax (options) {
         return arr.join('&')
     }
 }
+
+export default FAjax
